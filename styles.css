@@ -680,6 +680,10 @@ img .blogs {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+
+    a {
+      margin-bottom: 0.8rem;
+    }
   }
 
   .hero-icons {
